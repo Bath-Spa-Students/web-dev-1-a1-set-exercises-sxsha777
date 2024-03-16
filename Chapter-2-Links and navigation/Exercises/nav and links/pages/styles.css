@@ -1,0 +1,9 @@
+.decor{
+    background-color: black;
+    -webkit-text-fill-color: white;
+    margin: 1.5cm;
+}
+
+body {
+     font-family: sans-serif; 
+    }
