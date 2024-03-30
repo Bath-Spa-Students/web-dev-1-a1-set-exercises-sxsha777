@@ -1,0 +1,18 @@
+body {
+    
+    background-color: black;
+  }
+
+  .video {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+  }
+
+  .text {
+    position: initial;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #000000;
+    size: 70%;
+  }
