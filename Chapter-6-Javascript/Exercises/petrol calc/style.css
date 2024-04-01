@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    background-color: #bfc4f0;
+  }
+
+  button {
+    background-color: #b3b3dd;
+    color: #ffffff;
+    border: 1px;
+    border-radius: 5px;
+    width: 150px;
+    padding: 15px;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #a4a4d4;
+  }
+  
+
+  .wrapper {
+    border-radius: 10px;
+    background-color: #d7dcf7;
+    height: 250px;
+    width: 500px;
+    margin: 50px auto;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+  }
